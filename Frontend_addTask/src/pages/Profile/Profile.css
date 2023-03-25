@@ -1,0 +1,38 @@
+
+.card__header {
+    display: flex;
+    height: 64px;
+    font-size: 8 rem;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-top: 60px;
+}
+
+
+.detail__header {
+    display: flex;
+    height: 64px;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+.main-title {
+    padding-top: 5 rem;
+    font-size: 1 rem;
+    font-family:  'Helvetica Neue';
+    /* font-family: 'Fascinate', cursive; 'Arial Bold','Arial Bold','Helvetica Neue','Marker Felt'*/ 
+    
+}
+
+.name-title {
+    padding-top: 5 rem;
+    font-size: 20 rem;
+    font-family:  'Helvetica Neue';
+    /* font-family: 'Fascinate', cursive; 'Arial Bold','Arial Bold','Helvetica Neue','Marker Felt'*/ 
+    
+}
+
+.m-5-auto {
+    margin-top: 20 rem 
+}
